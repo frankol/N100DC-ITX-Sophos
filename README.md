@@ -17,7 +17,7 @@ Boot with prepared UEFI USB Stick
 Now you will see 2x Advanced in your BIOS after pressing F6. There you can activate CSM, but remember to select UEFI only for Video Card or you wont get a image anymore
 I have attached my saved bios settings in "sophos-settings-uefi.BIN". You can restore it in your BIOS to get Sophos running
 
-You wont see any output after BIOS start, so you need a serial converter attached to sub-d connector (baud rate 384500)
+You wont see any output after BIOS start, so you need a serial converter attached to sub-d connector (baud rate 38400)
 
 ```
 MOD1-N100DC-ITX_2.01.ROM = swapped Tools with hidden Advanced Menu
